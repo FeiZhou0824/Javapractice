@@ -1,4 +1,4 @@
-package FromZulpicar;
+package FromZulpikar;
 
 public class SumOfDigits_String {
 

@@ -1,6 +1,4 @@
-package FromZulpicar;
-
-import java.lang.reflect.Array;
+package FromZulpikar;
 
 public class FindMaximum {
 
