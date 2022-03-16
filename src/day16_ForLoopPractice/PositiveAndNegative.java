@@ -23,6 +23,7 @@ public class PositiveAndNegative {
         }
 
 
+
         System.out.println(positive + " positive " + negative + " negative");
 
 input.close();
